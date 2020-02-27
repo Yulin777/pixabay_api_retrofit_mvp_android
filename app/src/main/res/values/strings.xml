@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="api_key">12175339-7048b7105116d7fa1da74220c</string>
+    <string name="err_msg">oops... something happened :(</string>
+</resources>

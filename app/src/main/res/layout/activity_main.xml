@@ -13,6 +13,7 @@
         layout="@layout/photos_grid"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/search_bar" />
+        android:layout_below="@id/search_bar" 
+        android:layout_margin="5dp"/>
 
 </RelativeLayout>
